@@ -1,4 +1,4 @@
-import Frame from "../assets/frame.png";
+import Frame from "./assets/frame.png";
 export default function HeroSection() {
   return (
     <section className='pb-[114px] pt-20 md:mt-[100px]'>

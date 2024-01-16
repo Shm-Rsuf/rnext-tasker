@@ -1,4 +1,4 @@
-import LWSLogo from "../assets/lws-logo-en.svg";
+import LWSLogo from "./assets/lws-logo-en.svg";
 export default function Header() {
   return (
     <nav className='py-6 md:py-8 fixed top-0 w-full !bg-[#191D26] z-50'>
