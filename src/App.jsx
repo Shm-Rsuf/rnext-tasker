@@ -1,3 +1,13 @@
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import HeroSection from "./components/HeroSection";
+
 export default function App() {
-  return <div className='text-center'>App</div>;
+  return (
+    <>
+      <Header />
+      <HeroSection />
+      <Footer />
+    </>
+  );
 }
